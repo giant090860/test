@@ -21,6 +21,7 @@
     
     // comment 1
     
+    // extra stuff comment 2
 }
 
 - (void)didReceiveMemoryWarning
